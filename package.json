@@ -10,7 +10,7 @@
     "test:watch": "npm run test -- --watch",
     "build": "webpack -p --define process.env.NODE_ENV='\"production\"' --progress --colors",
     "postinstall": "webpack -p"
-},
+  },
   "author": "",
   "license": "ISC",
   "devDependencies": {
